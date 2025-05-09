@@ -24,8 +24,10 @@ In this paper, we propose LEAD, an efficient iterative data selection framework 
 </div>
 
 ## 🔗 Quick Links
+- [🔥 Iterative Data Selection for Efficient LLM Instruction Tuning](#-iterative-data-selection-for-efficient-llm-instruction-iuning)
 - [📢 News](#-news)
 - [📋 Overview](#-overview)
+- [🔗 Quick Links](#-quick-links)
 - [⚙️ Environment Setup](#-environment-setup)
 - [📥 Data Preparation](#-data-preparation)
 - [🌠 Running LEAD](#-running-lead)
