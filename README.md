@@ -25,16 +25,16 @@ In this paper, we propose LEAD, an efficient iterative data selection framework 
 
 ## 🔗 Quick Links
 - [🔥 Iterative Data Selection for Efficient LLM Instruction Tuning](#-iterative-data-selection-for-efficient-llm-instruction-iuning)
-- [📢 News](#-news)
-- [📋 Overview](#-overview)
-- [🔗 Quick Links](#-quick-links)
-- [⚙️ Environment Setup](#-environment-setup)
-- [📥 Data Preparation](#-data-preparation)
-- [🌠 Running LEAD](#-running-lead)
-  - [Step 1: Warmup Training](#step-1-warmup-training)
-  - [Step 2: Data Processing Pipeline (Offline)](#step-2-data-processing-pipeline-offline)
-  - [Step 3: Two-Stage Coarse-to-Fine Data Selection and Training (Online)](#step-3-two-stage-coarse-to-fine-data-selection-and-training-online)
-  - [Step 4: Evaluation](#step-4-evaluation)
+    - [📢 News](#-news)
+    - [📋 Overview](#-overview)
+    - [🔗 Quick Links](#-quick-links)
+    - [⚙️ Environment Setup](#-environment-setup)
+    - [📥 Data Preparation](#-data-preparation)
+    - [🌠 Running LEAD](#-running-lead)
+    - [Step 1: Warmup Training](#step-1-warmup-training)
+    - [Step 2: Data Processing Pipeline (Offline)](#step-2-data-processing-pipeline-offline)
+    - [Step 3: Two-Stage Coarse-to-Fine Data Selection and Training (Online)](#step-3-two-stage-coarse-to-fine-data-selection-and-training-online)
+    - [Step 4: Evaluation](#step-4-evaluation)
 
 ## ⚙️ Environment Setup
 
