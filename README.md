@@ -124,3 +124,7 @@ We follow the instructions in the [open-instruct](https://github.com/allenai/ope
     ```
 
 
+## ✉️ Contact
+If you have any questions related to the code or the paper, feel free to contact: xlin420@connect.hkust-gz.edu.cn
+
+If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
