@@ -1,0 +1,1 @@
+wget https://huggingface.co/datasets/lxtlxt/leadData/resolve/main/leadData.jsonl
