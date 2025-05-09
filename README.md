@@ -35,13 +35,19 @@ In this paper, we propose LEAD, an efficient iterative data selection framework 
   - [Step 4: Evaluation](#step-4-evaluation)
 
 ## ⚙️ Environment Setup
-Create and activate a conda environment:
-```bash
-conda create --name lead python=3.10.15
-conda activate lead
-cd LEAD
-pip install -r requirements.txt
-```
+
+1. Clone the repository
+    ```bash
+    git clone https://github.com/HKUSTDial/LEAD.git
+    cd LEAD
+    ```
+
+2. Create and activate a conda environment:
+    ```bash
+    conda create --name lead python=3.10.15
+    conda activate lead
+    pip install -r requirements.txt
+    ```
 
 ## 📥 Data Preparation
 We follow the [open-instruct](https://github.com/allenai/open-instruct?tab=readme-ov-file#dataset-preparation) repo to prepare eight instruction tuning datasets. In our project, we utilize a combination of eight training datasets: WizardLM (ShareGPT) , WizardLM (Alpaca), UltraChat, unnatural, Alpaca code, Standard Alpaca, MATH and GSM8K. 
