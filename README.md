@@ -3,9 +3,13 @@
 
 <h4 align="center"> ✨ Official repository for the paper "Iterative Data Selection for Efficient LLM Instruction Tuning"</h4>
 
+<div align="center">
+
 [![arXiv](https://img.shields.io/badge/arXiv-2503.22402-<COLOR>.svg)](https://arxiv.org/abs/2505.07437)
-[![Data](https://img.shields.io/badge/🤗-Checkpoints-orange)](https://huggingface.co/datasets/lxtlxt/leadData)
+[![Data](https://img.shields.io/badge/🤗-Data-orange)](https://huggingface.co/datasets/lxtlxt/leadData)
 [![Python](https://img.shields.io/badge/Python-3.12.7-3776AB.svg?style=flat)](https://www.python.org/downloads/release/python-31015/)
+
+</div>
 
 <div align="center">
   <img src="assets/overview.png" alt="Overview Figure" width="600"/>
