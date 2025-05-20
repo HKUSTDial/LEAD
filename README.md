@@ -133,3 +133,18 @@ We follow the instructions in the [open-instruct](https://github.com/allenai/ope
 
 ## ✉️ Contact
 If you have any questions related to the code or the paper, feel free to contact: xlin420@connect.hkust-gz.edu.cn. If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
+
+
+## 📝 Citation
+If you find our work useful or inspiring, please kindly cite:
+```bibtex
+@misc{lin2025leaditerativedataselection,
+      title={LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning}, 
+      author={Xiaotian Lin and Yanlin Qi and Yizhang Zhu and Themis Palpanas and Chengliang Chai and Nan Tang and Yuyu Luo},
+      year={2025},
+      eprint={2505.07437},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.07437}, 
+}
+```
