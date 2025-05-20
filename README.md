@@ -7,7 +7,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.22402-<COLOR>.svg)](https://arxiv.org/abs/2505.07437)
 [![Data](https://img.shields.io/badge/🤗-Data-orange)](https://huggingface.co/datasets/lxtlxt/leadData)
-[![Python](https://img.shields.io/badge/Python-3.12.7-3776AB.svg?style=flat)](https://www.python.org/downloads/release/python-31015/)
+[![Python](https://img.shields.io/badge/Python-3.10.15-3776AB.svg?style=flat)](https://www.python.org/downloads/release/python-31015/)
 
 </div>
 
