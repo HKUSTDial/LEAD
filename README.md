@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Iterative Data Selection for Efficient LLM Instruction Tuning</h1>
+<h1 align="center">🔥 LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning</h1>
 <h4 align="center">🚧 Please note that this repository is still under construction! 🚧</h4>
 
 <h4 align="center"> ✨ Official repository for the paper "Iterative Data Selection for Efficient LLM Instruction Tuning"</h4>
@@ -13,7 +13,7 @@
 
 ## 📢 News
 
-[May 09, 2025] LEAD is publicly released ! \
+[May 09, 2025] LEAD is publicly released! \
 [May 09, 2025] We released our [data pool](https://huggingface.co/datasets/lxtlxt/leadData) !
 
 
