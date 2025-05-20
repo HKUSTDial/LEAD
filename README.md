@@ -1,7 +1,7 @@
 <h1 align="center">🔥 LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning</h1>
 <h4 align="center">🚧 Please note that this repository is still under construction! 🚧</h4>
 
-<h4 align="center"> ✨ Official repository for the paper "Iterative Data Selection for Efficient LLM Instruction Tuning"</h4>
+<h4 align="center"> ✨ Official repository for the paper "LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning"</h4>
 
 <div align="center">
 
