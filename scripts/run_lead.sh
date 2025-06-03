@@ -8,7 +8,7 @@ export CUDA_VISIBLE_DEVICES=0,1
 
 # Base directories
 BASE_DIR="/path/to/LEAD"
-LEAD_DIR="${BASE_DIR}/src/LEAD"
+LEAD_DIR="${BASE_DIR}/src/online"
 RUN_LEAD_SCRIPT="${LEAD_DIR}/run_lead.py"
 
 MODEL_SIZE=7B
